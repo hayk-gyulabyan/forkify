@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hayk-gyulabyan/forkify/issues"
   },
-  "homepage": "https://github.com/hayk-gyulabyan/forkify#readme"
+  "homepage": "https://github.com/hayk-gyulabyan/forkify#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
 }
